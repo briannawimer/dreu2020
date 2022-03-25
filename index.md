@@ -18,7 +18,7 @@ My name is Brianna Wimer, and I am currently a junior at The University of Alaba
 
 I had the oppurtunity to begin an independent research project in which I began attempting to find ways to build a reward system in games to improve emotion regulation for people with Attention Deficit Hyperactivity Disorder. Then, I developed a version of the reward system within a standard Tetris game.
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](files/DREU_2020__Controlling_ADHD_Emotions_Brianna_Wimer_ (1).pdf)
 
 ## My Blog
 
